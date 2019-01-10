@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'indie_flowerregular';
+    src: url('https://www.anneyaelrege.uk/Eitan/indieflower-webfont.woff2') format('woff2'),
+         url('https://www.anneyaelrege.uk/Eitan/indieflower-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body {
+  font-family: 'Indie Flower', cursive;
+}
+div {
+  width: 635px;
+  border: 25px;
+  padding: 25px;
+  margin: 25px;
+
+  border-radius: 5px;
+  list-style-type: none;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #8c8c87;
+}
+div .greybg {
+  margin: 5px;
+  border-radius: 5px;
+  background-color: #82828c;
+  width: 500px;
+}
